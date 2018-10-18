@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(41): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(42): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(46): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juan pablo leon\documents\universidad\computación gráfica\tareas\tarea 1\project1\project1\main.cpp(48): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Project1.vcxproj -> C:\Users\Juan Pablo Leon\Documents\Universidad\Computación Gráfica\tareas\tarea 1\Project1\Debug\Project1.exe
