@@ -5,7 +5,7 @@
 // T1
 // Juan Pablo Leon (201473047-2)
 // Allan Viveros (201473056-k)
-// Numero de Grupo: 
+// Numero de Grupo: 9
 
 #include <GL/glut.h>
 
