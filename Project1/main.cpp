@@ -27,8 +27,7 @@ int main(int argc, char** argv) {
 }
 
 void init() {
-	glClearColor(0.0, 1.0, 0.0, 1.0); //color de fondo
-	glColor3f(1.0, 1.0, 1.0);
+	glClearColor(1.0, 1.0, 1.0, 1.0); //color de fondo
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
 	glOrtho(-1.0, 1.0, -1.0, 1.0, -1.0, 1.0);
@@ -37,6 +36,8 @@ void init() {
 void mydisplay()
 {
 	glClear(GL_COLOR_BUFFER_BIT);
+
+	glColor3f(0.0, 0.0, 1.0);
 	glBegin(GL_POLYGON);
 	glVertex2f(-0.9, 0.9);
 	glVertex2f(0.9, 0.9);
@@ -44,6 +45,7 @@ void mydisplay()
 	glVertex2f(-0.9, 0.3);
 	glEnd();
 
+	glColor3f(0.0, 1.0, 0.0);
 	glBegin(GL_POLYGON);
 	glVertex2f(0.0, 0.0);
 	glVertex2f(0.9, 0.0);
@@ -51,13 +53,11 @@ void mydisplay()
 	glVertex2f(0.0, -0.9);
 	glEnd();
 
+	glColor3f(1.0, 0.0, 0);
 	glBegin(GL_TRIANGLES);
 	glVertex2f(-0.55, 0.0);
 	glVertex2f(-0.2, -0.9);
 	glVertex2f(-0.9, -0.9);
 	glEnd();
-
 	glFlush();
-
-
 }
